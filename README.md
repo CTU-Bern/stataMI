@@ -17,7 +17,7 @@ Collection of ado-files to help with multiple imputations in Stata.
 Installation
 ------------
 
-In order to install `stataMIT` from github the github-package is required:
+In order to install `stataMI` from github the github-package is required:
 
 	net install github, from("https://haghish.github.io/github/")
 
