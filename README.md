@@ -9,7 +9,7 @@ Collection of ado-files to help with multiple imputations in Stata.
 
 `mig` combines estimates over multiple imputations.
 	Either using Rubin's rule on a point and variance estimate,
-	the D2 procedure on a chi-squared (or F-) statistic,
+	the D2 procedure on a chi-squared (or F) statistic,
 	or the median P rule on a p-value.
 	
 
