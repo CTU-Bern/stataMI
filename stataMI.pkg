@@ -1,0 +1,12 @@
+v 1.0.0
+d 'STATAMI': stataMI
+d 
+d Multiple imputations with stata
+d 
+d Distribution-Date:   20210924
+d License: Academic Free License v3.0
+d 
+F mie.ado
+F mie.sthlp
+F mig.ado
+F mig.sthlp
