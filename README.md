@@ -21,7 +21,7 @@ In order to install `stataMI` from github the github-package is required:
 
 	net install github, from("https://haghish.github.io/github/")
 
-You can then install the development version of `btable` with:
+You can then install the development version of `stataMI` with:
 
 	github install CTU-Bern/stataMI
 
@@ -45,4 +45,4 @@ Author
 **Lukas Bütikofer**  
 CTU Bern  
 lukas.buetikofer@ctu.unibe.ch  
-<https://github.com/CTU-Bern/btable>  
+<https://github.com/CTU-Bern/stataMI>  
