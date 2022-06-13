@@ -28,7 +28,7 @@
 {syntab:Output to be combined*}
 {synopt:{opth pe(string)}}point estimate returned by {cmd:testsyntax}{p_end}
 {synopt:{opth ve(string)}}variance estimate returned by {cmd:testsyntax}{p_end}
-{synopt:{opth chi(string)}}chi-squared statistic returned by {cmd:testsyntax}{p_end}
+{synopt:{opth chi2(string)}}chi-squared statistic returned by {cmd:testsyntax}{p_end}
 {synopt:{opth fvalue(string)}}F-statistic returned by {cmd:testsyntax}{p_end}
 {synopt:{opth pvalue(string)}}p-value returned by {cmd:testsyntax}{p_end}
 
